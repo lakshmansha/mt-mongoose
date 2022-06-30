@@ -4,6 +4,7 @@
   "keywords": ["mongoose"],
   "author": "BabuSrithar",
   "dependencies": {
+    "mongoose": "^5.7.8"
   },
   "devDependencies": {
   },
